@@ -98,3 +98,16 @@ body {
 
 .blue_bottom span {
   line-height: 2.4; }
+
+.logo {
+  display: flex;
+  justify-content: space-between; }
+
+.logo img {
+  margin-top: 20px;
+  width: 37px;
+  height: 37px;
+  margin-right: 8px; }
+
+body > div:nth-child(5) > div > div:nth-child(2) > img:nth-child(2) {
+  margin-top: 20px; }
